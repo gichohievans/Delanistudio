@@ -1,0 +1,174 @@
+.header{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .headertxt{
+    padding-top: 150px;
+  }
+  body{
+    font-family: 'Raleway';
+  }
+  h2{
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .headertxt h1{
+    color: white;
+    padding-top: 45px;
+  }
+  .headertxt p{
+    color: white;
+    font-size: 10px;
+  }
+  
+  .about p{
+    font-size: 12px;
+  }
+   #mouse{
+     padding-top: 145px
+  } 
+  .service{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-size: cover; 
+    height: 300px;
+    background-repeat: no-repeat;
+  }
+  .service h2{
+    color: white;
+    padding-top: 80px;
+  }
+  .service p{
+    color: white;
+    font-size: 12px;
+  }
+  .whatwedo p{
+    padding-top:10px ;
+    font-size: 10px;
+  }
+  .whatwedo h4{
+    font-size: 12px;
+  }
+  .porfolio{
+    padding: 25px;
+    margin: 145px;
+    
+  }
+  #port1{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work4.jpg");
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  #port2{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work3.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  
+  .port3{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work2.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  .port4{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work1.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  .port5{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work5.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  .port6{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work6.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  .port7{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work7.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  .port8{
+    border-right: white solid 20px;
+    background-image: url("../assets/portfolio/work8.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  .footer{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-size: contain;
+    height: 400px;
+    background-repeat: no-repeat;
+  }
+  
+  #Name
+  {
+    background: transparent !important;
+    color: white;
+  }
+  #Email
+  {
+    background: transparent !important;
+    color: white;
+  }
+  #textbox
+  {
+    background: transparent !important;
+    color: white;
+  }
+  .form-control::-webkit-input-placeholder {
+    color: white;
+  }
+  #designtxt{
+    display: none;
+  }
+  #developtxt{
+    display: none;
+  }
+  #producttxt{
+    display: none;
+  }
+  .footer h2{
+    color: white;
+    padding-top: 50px;
+  }
+  .row blockquote{
+   
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+  }
+  .hide{
+    display: none;
+  }
+  #buttsub{
+    color: white;
+  }
