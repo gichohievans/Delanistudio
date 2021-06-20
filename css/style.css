@@ -127,17 +127,17 @@
     background-repeat: no-repeat;
   }
   
-  #Name
+  #mce-NAME
   {
     background: transparent !important;
     color: white;
   }
-  #Email
+  #mce-EMAIL
   {
     background: transparent !important;
     color: white;
   }
-  #textbox
+  #mce-FEEDBACK
   {
     background: transparent !important;
     color: white;
