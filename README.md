@@ -19,7 +19,7 @@
     - be able to send feedback
   
 ## Live link
-    Deployed project can be accessed here -  [DElani studios]()
+    Deployed project can be accessed here -  [DElani studios](https://gichohievans.github.io/Delanistudio/)
 ​
 ## Technologies used
     - HTML
