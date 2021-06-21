@@ -21,7 +21,7 @@ As a user, I would like to;
     -host the site through gh pages
   
 ## Live link
-Deployed project can be accessed here 
+Deployed project can be accessed here-
   [live link](https://gichohievans.github.io/Delanistudio/)
 ​
 ## Technologies used
