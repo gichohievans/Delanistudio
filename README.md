@@ -20,7 +20,7 @@
   
 ## Live link
     Deployed project can be accessed here 
-    [live link](https://gichohievans.github.io/Delanistudio/)
+  [live link](https://gichohievans.github.io/Delanistudio/)
 ​
 ## Technologies used
     - HTML
