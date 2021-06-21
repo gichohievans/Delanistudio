@@ -1,5 +1,5 @@
 ## Project name
-Independent Project - Delani Studio
+INDIPENDENT PROJECT- DELANI STUDIOS WEBSITE
 ​
 ## Project description
 An implementation of Delani studio's website using bootstrap and Jquery
