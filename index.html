@@ -144,9 +144,18 @@
               </div>
               <button id="buttsub" class="btn">Submit</button> 
               <div id="mce-responses" class="clear">
-              <div class="response" id="mce-error-response" style="display:none"></div>
-              <div class="response" id="mce-success-response" style="display:none"></div>
-            </div> 
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+              </div> 
+              <script>
+                var input = document.getElementById("mce-FEEDBACK");
+                input.addEventListener("keyup", function(event) {
+                  if (event.keyCode === 13) {
+                   event.preventDefault();
+                   document.getElementById("buttsub").click();
+                  }
+                });
+                </script>
             </form>
   
           </div>
